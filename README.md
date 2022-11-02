@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/44554225?s=400&u=56e3475b4166f3ea48796168e4bfc8864a59a1e1&v=4">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ash9311&label=Profile%20views&color=0e75b6&style=flat" alt="ash9311" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash9311" alt="ash9311" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/@ashutoshmulki1" target="blank"><img src="https://img.shields.io/twitter/follow/@ashutoshmulki1?logo=twitter&style=for-the-badge" alt="@ashutoshmulki1" /></a> </p>
 
