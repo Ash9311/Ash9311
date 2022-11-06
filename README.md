@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **learning in public**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ash9311?tab=repositories](https://github.com/Ash9311?tab=repositories)
 
 - 📝 I regularly write articles on [Linkedin,Twitter](Linkedin,Twitter)
