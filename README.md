@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Angular,typeScript,C#,MongoDB**
 
-- 🌱 I’m currently learning **JavaScript Full Stack,DSA**
+- 🌱 I’m currently learning **JavaScript Full Stack, System Design**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
